@@ -10,6 +10,9 @@ Issue	Handle board automatization bot	622	membraneframework/membrane_core	PVTI_l
 Issue	Create Membrane SDK	618	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJnF6Y
 PullRequest	Bump version to 1.0.0-rc1	619	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJneDI
 Issue	Precompilation support in Bundlex	604	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJjbVY
+
+
+
 Issue	Adjust packages with native dependencies to use bundlex's precompiled dependencies	636	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJu-vc
 Issue	Implement `Inspect` protocol in component states	616	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJlBVg
 Issue	Write upgrading guide for v1.0.0-rc1	624	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJpMpw
