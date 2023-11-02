@@ -1,5 +1,9 @@
 Issue	[Tutorials] Add tutorial based on guide	620	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJngxk
-Issue	Prepare script for installing and building packages with brew 	608	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJjdVw
+Issue	Prepare script for installing and building packages with brew 	608	membraneframework/membrane_core	
+PVTI_lADOAYE_z84AWEIBzgJjdVw
+
+
+
 Issue	prepare CI config for precompiling packages	609	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJjdZw
 Issue	Add API to handle precompiled dependencies in Bundlex	603	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJjcGE
 Issue	Create precompiled dependencies repositories	623	membraneframework/membrane_core	PVTI_lADOAYE_z84AWEIBzgJnkq8
